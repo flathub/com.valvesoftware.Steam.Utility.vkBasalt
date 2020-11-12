@@ -1,6 +1,6 @@
 # com.valvesoftware.Steam.Utility.vkBasalt
 
-This is the [vkBasalt](https://github.com/DadSchoorse/vkBasalt/) flatpak for Steam's flatpak.
+This is the [vkBasalt](https://github.com/DadSchoorse/vkBasalt/) flatpak for Steam's flatpak. **This will only work if you are using Steam *and* vkBasalt's beta flatpaks!**
 
 ## Enable vkBasalt per game
 
