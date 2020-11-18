@@ -25,10 +25,7 @@ modules:
     sources: &vkBasalt-sources
       - type: git
         url: https://github.com/DadSchoorse/vkBasalt.git
-        commit: ca921c88f17c154d27583edc0240c172a66da445
-      - type: patch
-        paths:
-          - patches/0001-Configure-System-wide-Paths.patch
+        commit: 5834cf06d501a53402ec6333c62c736bc5281759
 
   - name: vkBasalt-32bit
     build-options:
