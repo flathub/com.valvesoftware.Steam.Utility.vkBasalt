@@ -9,6 +9,7 @@
   <project_license>Zlib</project_license>
   <metadata_license>CC0-1.0</metadata_license>
   <releases>
+    <release version="git-ce647da21d275bcb34bb6636ab12288778d8ace1" date="2021-01-08"/>
     <release version="git-ab105974c51d0dfe4a2d483d531dbb3da0d56889" date="2020-11-20"/>
     <release version="git-5834cf06d501a53402ec6333c62c736bc5281759" date="2020-11-18"/>
   </releases>
