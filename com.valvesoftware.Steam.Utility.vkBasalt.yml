@@ -25,7 +25,7 @@ modules:
     sources: &vkBasalt-sources
       - type: git
         url: https://github.com/DadSchoorse/vkBasalt.git
-        commit: ce647da21d275bcb34bb6636ab12288778d8ace1
+        commit: ee98003229465f9872e983a43a83b8cddc054fce
 
   - name: vkBasalt-32bit
     build-options:
