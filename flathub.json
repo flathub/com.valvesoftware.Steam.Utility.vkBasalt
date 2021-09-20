@@ -1,4 +1,6 @@
 {
   "only-arches": ["x86_64"],
+  "end-of-life": "This extension was converted to a runtime extension",
+  "end-of-life-rebase": "org.freedesktop.Platform.VulkanLayer.vkBasalt",
   "skip-icons-check": true
 }
